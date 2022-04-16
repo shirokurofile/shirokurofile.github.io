@@ -1,0 +1,1 @@
+function user_proxy(url, host) {return "DIRECT";}function FindProxyForURL(url, host) {return "DIRECT";}
